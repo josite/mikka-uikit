@@ -1,7 +1,8 @@
 # Mikka UI kit
-User interface kit fore webdevelopers
+User interface kit for webdevelopers
 
 ## Changelog
+2. 27 jule 2017 - add grid files (css)
 1. 26 jule 2017 - create repository
 
 
@@ -14,11 +15,11 @@ User interface kit fore webdevelopers
 ### Class of columns
 | class | description |
 | ------ | ------ |
-| -sm- | for small mobile __(<480px)__ |
-| -m- | for mobile __(481px - 768px)__ |
-| -t- | for tablet __(769px - 1024px)__ |
-| -l- | for laptop __(1025px - 1280px)__ |
-| -d- | for desktop __(> 1281px)__ |
+| -sm- | for small mobile **(<480px)** _(A mandatory class for specifying the width of a block regardless of the screen resolution)_ |
+| -m- | for mobile **(481px - 768px)** |
+| -t- | for tablet **(769px - 1024px)** |
+| -l- | for laptop **(1025px - 1280px)** |
+| -d- | for desktop **(> 1281px)** |
 
 
 ### Structure
