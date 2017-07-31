@@ -2,8 +2,8 @@
 User interface kit for webdevelopers
 
 ## Changelog
-2. 27 jule 2017 - add grid files (css)
 1. 26 jule 2017 - create repository
+1. 27 jule 2017 - add grid files (css)
 
 
 ### Class of containers
@@ -27,8 +27,12 @@ User interface kit for webdevelopers
 ```html
 <div class="mk-container">
 	<div class="mk-row">
-		<div class="col-sm-12 col-t-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio, alias.</div>
-		<div class="col-sm-12 col-t-8">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus amet sed id illo laboriosam! Beatae, repudiandae eligendi. Omnis, exercitationem delectus laudantium. Amet, modi odit quisquam eum tenetur perspiciatis sequi. Perspiciatis.</div>
+		<div class="col-sm-12 col-t-4">
+			Some text!
+		</div>
+		<div class="col-sm-12 col-t-8">
+			Some text. Some text. Some text. Some text. Some text!
+		</div>
 	</div>
 </div>
 ```
